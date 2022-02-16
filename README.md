@@ -1,2 +1,2 @@
-# google_mlkit
-Google ML kit based face detection
+# vfs_mlkit
+ML Kit based Video Feedback System
